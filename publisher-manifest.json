@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "56f0e875b8662ac63201b10e",
+  "owner": "jqjjrkyq",
+  "repo": "page-b422117a1777340f8826d8c5",
+  "title": "迷途云(Stray)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b422117a1777340f8826d8c5",
+      "a": "迷途云(Stray)",
+      "b": "",
+      "entity": "迷途云(Stray)",
+      "brand": "迷途云(Stray)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5ece6c19c3b28a7e9defe59a5e587b922cb62044f488291e3a9ddfe604e057ce",
+      "content": {
+        "keyword1": "迷途云(Stray)",
+        "keyword2": "",
+        "primary_entity": "迷途云(Stray)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "迷途云(Stray)提供稳定机场订阅与多平台客户端下载，覆盖流媒体解锁、游戏加速与日常网络加速，支持按月或按年套餐，官方网站一站获取使用说明。",
+          "AI_DESCRIPTION": "迷途云(Stray)提供稳定机场订阅与多平台客户端下载，覆盖流媒体解锁、游戏加速与日常网络加速，支持按月或按年套餐，官方网站一站获取使用说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*::before,*::after{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;background:#FFF8F5;color:#2B2422;font-size:16px;line-height:1.75}a{color:#C44536;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{width:100%}header{border-bottom:1px solid #F0D5CC;background:#FFFDFB}header nav{max-width:880px;margin:0 auto;padding:12px 16px;display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}header .brand{font-weight:700;color:#2B2422}header a{color:#5C3D36}main{display:block}.wrap{max-width:880px;margin:0 auto;padding:0 16px}.hero{padding:72px 16px 48px;text-align:center}.hero h1{margin:0 0 16px;font-size:2.05rem;line-height:1.25;letter-spacing:.02em;font-weight:750}.hero p.lead{margin:0 auto;max-width:36em;color:#5A4A46;font-size:1.05rem}.hero .cta-row{margin-top:28px;display:flex;flex-wrap:wrap;gap:10px;justify-content:center}.chip{display:inline-block;padding:10px 16px;border:1px solid #E8B4A8;border-radius:999px;background:#FFF;color:#C44536;font-weight:600}section{padding:28px 0}h2{margin:0 0 14px;font-size:1.4rem;color:#2B2422}h3{margin:18px 0 8px;font-size:1.08rem}p{margin:0 0 12px}.muted{color:#6B5752}.card-grid{display:flex;flex-direction:column;gap:14px}.plan{background:#FFFDFB;border:1px solid #F0D5CC;border-radius:12px;padding:16px 16px 14px}.plan.featured{border-color:#E07A5F;background:#FFF1EC;box-shadow:0 0 0 1px #E07A5F} .plan .name{font-weight:700;font-size:1.12rem}.plan .price{margin:6px 0 2px;font-size:1.35rem;color:#C44536;font-weight:750}.plan .annual{margin-bottom:10px;font-size:.92rem;color:#6B5752}.plan ul{margin:0;padding-left:1.15em}.plan li{margin:4px 0}.note{background:#FFF;border-left:4px solid #E07A5F;padding:10px 12px;margin:12px 0}.client-list{display:flex;flex-direction:column;gap:10px}.client{background:#FFFDFB;border:1px solid #F0D5CC;border-radius:10px;padding:12px 14px}.client h3{margin:0 0 6px}.steps ol{margin:0;padding-left:1.2em}.steps li{margin:6px 0}details{background:#FFFDFB;border:1px solid #F0D5CC;border-radius:10px;padding:8px 12px;margin:8px 0}summary{font-weight:650;color:#2B2422}details p{margin:8px 0 4px;color:#433734}footer{border-top:1px solid #F0D5CC;background:#FFFDFB;padding:24px 0 36px}footer h2{font-size:1.15rem}footer ul{margin:0;padding-left:1.15em}footer li{margin:4px 0}.tiny{font-size:.88rem;color:#6B5752;margin-top:16px}</style><header><nav aria-label=\"页面导航\"><a class=\"brand\" href=\"#top\">迷途云(Stray)</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官网下载</a></nav></header><main id=\"top\"><div class=\"hero wrap\"><h1>迷途云(Stray)</h1><p class=\"lead\">迷途云(Stray)官方网站：机场订阅、网络加速与多端客户端下载指引。面向跨境办公、流媒体与游戏线路优化，按流量与设备数提供基础版、旗舰版与团队版。</p><p class=\"cta-row\"><a class=\"chip\" href=\"#clients\">选择客户端</a><a class=\"chip\" href=\"#plans\">查看套餐</a><a class=\"chip\" href=\"#download\">官网下载指引</a></p></div><section id=\"intro\" class=\"wrap\"><h2>品牌简介</h2><p>迷途云(Stray)是面向个人与小团队的网络加速与机场订阅服务。服务侧重点在于可预期的月度流量、可同时在线的设备数量，以及按套餐开放的节点能力：从普通线路节点池到 IPLC 专线游戏优化、原生流媒体解锁。</p><p>本页作为迷途云官方信息入口，集中说明套餐边界、客户端选择与导入步骤，避免把下载、订阅和排障散落在多个入口。不提供任何评分或用户评论汇编，只陈述套餐与使用方法，便于对照后再开通。</p><p class=\"muted\">名称保留「迷途云(Stray)」原意，页面中的「机场」指订阅型代理接入，「VPN / 加速器」指多协议客户端接入，不额外重复堆叠后缀。</p></section><section id=\"plans\" class=\"wrap\"><h2>套餐与订阅</h2><p>价格按下表执行。年付为同一档位的 10 个月价折算，流量与设备数不因年付改变。旗舰版为默认推荐档，含全节点原生流媒体与 IPLC 游戏向优化。</p><div class=\"card-grid\"><article class=\"plan\"><div class=\"name\">基础版</div><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><div class=\"name\">旗舰版（推荐）</div><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><div class=\"name\">团队版</div><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p class=\"note\">流量按成功转发的实际字节计，控制面心跳与失败握手不计入套餐额度。设备数按同时在线会话统计，超出后新会话将被拒绝，已连接会话不受影响。</p></section><section id=\"clients\" class=\"wrap\"><h2>客户端选择与官网下载</h2><p>迷途云订阅兼容主流 Clash / Sing-Box 生态与常见 iOS 商店客户端。请优先从各客户端官方渠道获取安装包，再用本站订阅链接导入。本页强调「先选客户端、再导入订阅」，减少协议不匹配导致的连不上问题。</p><div class=\"client-list\"><article class=\"client\" id=\"download\"><h3>Windows</h3><p>推荐 Clash Verge Rev 或 v2rayN。安装后选择「从 URL 更新订阅」，粘贴机场订阅地址，开启系统代理或 TUN。若只需浏览器加速，可仅开系统代理；游戏与 UDP 场景建议 TUN。</p><p><a href=\"#guide\">查看导入步骤</a> · <a href=\"#faq\">常见问题</a></p></article><article class=\"client\"><h3>macOS</h3><p>轻量场景用 ClashX.Meta；需要规则集与策略组细控时用 Surge。导入后检查「允许局域网」与 DNS 劫持是否符合公司网络策略。Apple Silicon 请使用对应架构构建，避免转译导致的异常耗电。</p></article><article class=\"client\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Stash、Quantumult X。通过 Safari 打开订阅或在应用内「从 URL 下载」。蜂窝网络下请关闭「低数据模式」干扰，流媒体解锁以旗舰版全节点原生解锁为准。</p></article><article class=\"client\"><h3>Android</h3><p>推荐 Clash Meta for Android。开启 VPN 模式后授予通知与自启动（按厂商设置），避免休眠断连。如需分应用代理，在访问控制中仅勾选需要加速的应用。</p></article><article class=\"client\"><h3>路由器与软路由</h3><p>OpenClash、HomeProxy、Clash Meta 内核均可订阅同一地址。团队版可配合定制路由，把办公网段与游戏网段拆到不同策略组。请勿把订阅明文写进可被访客读取的配置页。</p></article></div><p class=\"muted\">「官网下载」在此指：客户端安装包走上游官方发布页，迷途云侧只提供订阅与节点；不要从来路不明的网盘获取修改版客户端。</p></section><section id=\"scenes\" class=\"wrap\"><h2>使用场景</h2><h3>跨境协作与资料检索</h3><p>基础版即可覆盖邮件、文档与常规会议。节点池以香港、新加坡、日本、美国西岸为主，延迟随当时负载变化。若会议对丢包敏感，将会议应用单独走延迟更低的线路，而不是全局同一节点。</p><h3>流媒体</h3><p>基础版提供基础流媒体解锁；旗舰版与团队版为全节点原生解锁，减少「能打开首页但不能播」的地区库问题。请避免同一账号在短时间切换过多出口地区。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟和抖动更敏感的对战与更新下载。UDP 转发需在客户端开启对应开关。团队版可将游戏设备与办公设备拆分会话，避免抢占带宽。</p><h3>小团队共享</h3><p>团队版 20 台同时在线与 1000GB 月流量面向工作室或项目组。定制路由用于把代码仓库、设计素材源站与普通网页分成不同出口，降低误走高延迟线路的情况。</p></section><section id=\"guide\" class=\"wrap\"><h2>操作说明</h2><div class=\"steps\"><ol><li>在套餐区确认流量、设备数与是否需要 IPLC / 原生流媒体，开通对应档位。</li><li>在账户中心复制订阅 URL（Clash 与通用订阅通常分列，按客户端选择）。</li><li>进入上方「客户端选择」，安装与系统匹配的官方客户端，不要混用过期内核。</li><li>客户端内选择从 URL 导入或更新，首次建议手动更新一次规则集。</li><li>连通性测试：先选一条标注「普通」或「IEPL/IPLC」的节点访问状态页，再切到流媒体或游戏策略。</li><li>若失败：检查系统时间、本地防火墙、是否多客户端抢占 TUN，以及设备数是否已满。</li></ol></div><h3>节点与线路</h3><p>普通线路节点池覆盖日常浏览；旗舰版起开放 IPLC 游戏向节点与原生流媒体出口。名称中的地区为入口或中转标注，实际播放版权库以解锁策略为准。不在此页公布实时负载数字，以免过期信息误导。</p><h3>工单</h3><p>旗舰版为 7x24 优先工单；团队版另有专属客户经理通道。提交时请附上客户端名称与版本、系统、订阅类型、失败节点名与本地测试时间，便于核对是否为协议或规则问题。</p></section><section id=\"faq\" class=\"wrap\"><h2>常见问题</h2><details><summary>迷途云(Stray)如何选择客户端？</summary><p>按系统选：Windows 用 Clash Verge 或 v2rayN；macOS 用 ClashX.Meta 或 Surge；iOS 用 Shadowrocket、Stash 或 Quantumult X；Android 用 Clash Meta for Android。先装官方客户端，再导入订阅，是减少故障的最有效顺序。</p></details><details><summary>订阅导入后没有节点或无法更新？</summary><p>核对复制的是完整 HTTPS 订阅地址、客户端是否支持该订阅格式，以及本地时间是否准确。更新失败时先关闭系统代理再重试，避免客户端更新流量被自己的错误代理劫持。仍失败请更换网络后重试一次。</p></details><details><summary>基础版、旗舰版、团队版怎样区分？</summary><p>基础版 100GB / 3 设备 / 基础流媒体 / 普通节点池，适合轻度使用。旗舰版 300GB / 5 设备 / 全节点原生流媒体 / IPLC 游戏优化 / 优先工单。团队版 1000GB / 20 设备 / VIP 高带宽与定制路由，面向多人同时在线。</p></details><details><summary>流量与设备数如何计算？是否清零？</summary><p>流量按成功转发字节月度累计，到期按套餐周期重置。设备数统计同时在线会话，不是历史绑定台数。达到上限后新会话无法建立，可下线空闲设备后重连。年付只影响结算，不影响额度。</p></details><details><summary>能否用于游戏加速和流媒体？</summary><p>可以。游戏相关请优先旗舰版 IPLC 优化节点并开启 UDP。流媒体在基础版为有限解锁，旗舰版与团队版为全节点原生解锁。若某一节目仍受版权库限制，更换同区域其他节点，而不是反复开关客户端。</p></details><details><summary>在哪里进行官网下载？是否提供修改版安装包？</summary><p>迷途云官方网站只提供订阅与说明；客户端安装包请到对应项目的官方发布页获取。本站不提供修改版、破解版或第三方打包客户端，以避免凭证泄露与异常分流。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"ads\"><h2>公告与合作</h2><p>本页为迷途云(Stray)官方网站信息与客户端下载指引。商务合作、企业定制路由与团队版客户经理对接请通过套餐内工单提交，不在页面收集表单。</p></section><section id=\"links\"><h2>友情链接</h2><ul><li><a href=\"#clients\">客户端选择</a></li><li><a href=\"#plans\">套餐说明</a></li><li><a href=\"#guide\">导入与排障</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#top\">返回顶部</a></li></ul></section><nav id=\"sitemap\" aria-label=\"网站地图\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐与订阅</a></li><li><a href=\"#clients\">客户端与官网下载</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">公告与合作</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><p class=\"tiny\">© 迷途云(Stray) 官方网站 · 机场订阅与网络加速说明 · 仅含本页锚点导航</p></div></footer>",
+          "hash": "d0d8548e23819f4de57eba03950d09f7b1aa681011b1e298915e243fd3738a61",
+          "seo": {
+            "title": "迷途云(Stray)官网 | 机场订阅与多端客户端下载",
+            "keywords": "迷途云,Stray,迷途云机场,迷途云VPN,网络加速,梯子,加速器,客户端下载,官网下载,Clash订阅,IPLC",
+            "description": "迷途云(Stray)提供稳定机场订阅与多平台客户端下载，覆盖流媒体解锁、游戏加速与日常网络加速，支持按月或按年套餐，官方网站一站获取使用说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sdgkk.cn",
+    "host": "p-a94a9a3e4a.sdgkk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "sdgkk.cn",
+      "url": "https://sdgkk.cn/",
+      "label": "YukiMo",
+      "apex": "sdgkk.cn",
+      "kind": null,
+      "identity": "pvrfktq/page-0db4d5ec2ff1d437966951b7"
+    },
+    {
+      "host": "r3pm.cn",
+      "url": "https://r3pm.cn/",
+      "label": "迷途云(Stray)",
+      "apex": "r3pm.cn",
+      "kind": null,
+      "identity": "cevqvv/page-b880908fc7b62c15f96d4354"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e3eeb8e863dc7cad8fe7772c9924f5b0e3d3238d0b09bf9a646674aa800c4e1d",
+    "sitemap.xml": "60b239a29d8f4127e0ee25901b0d97b3ce858fdec381d27c8c3d850566c3384c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "51319e54f6cc74bfd58be2c8781cc668c539c48dfbe0d73a069fda83ad49bc7d",
+    "robots.txt": "da0da54e104cb988d1b3a849148aa3ca80b482f06232397a708d2ccbd66b69b4",
+    "c402caf6a8bbfacb89138d28a7c50c8f.txt": "70866aa0c458a37c4e43247862d3eab9f0e8d0ca84327d29f6ebd820a08c3721"
+  },
+  "revision": "0bc1d6db24666b62b859035fc2a873a41025c1b9ad977f435bdd2446465f4e23"
+}
